@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+}
+section{
+    border:5px black dashed;
+    display: flex;
+    
+}
+
+div {
+    border: black 12px dotted;
+    margin: 30px;
+    width: 50%;
+}
+
+h1{
+    padding: 40px;
+}

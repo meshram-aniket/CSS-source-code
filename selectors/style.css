@@ -1,0 +1,38 @@
+/* element selector */
+h1 {
+    color: yellowgreen;
+    border: black solid;
+}
+       
+
+/* class selectors */
+.class1 {
+    background-color: royalblue;
+}
+
+
+/* id selector */
+#id1 {
+    background-color:aqua;
+    border: black solid;
+}
+
+
+/* group selector */
+h5, h2, img{
+    background-color: bisque;
+    width: 500px;
+    height: 190px;
+}
+
+/* div{
+    background-color: bisque;
+    width: auto;
+    height: auto;
+} */
+
+
+/* universal selector */
+*{
+    background-color: rgb(141, 221, 223);
+}

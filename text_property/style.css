@@ -1,0 +1,17 @@
+h1 {
+    /* text-decoration: underline ;
+    text-decoration-style: double;
+    text-decoration-color: brown;
+    text-decoration-thickness: 5px ; */
+    /* text-decoration: underline double brown 5px; */
+}
+
+
+h2{
+    text-shadow: 10px 12px 2px brown; /*x-axis y-axis blur axis color */
+    line-height: 400px;
+}
+h5{
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}

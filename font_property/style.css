@@ -1,0 +1,7 @@
+h1{
+    font-family: 'PT Serif', serif;
+    /* font-variant  */
+    font-variant: small-caps;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}

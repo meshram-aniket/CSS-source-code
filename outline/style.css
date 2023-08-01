@@ -1,0 +1,9 @@
+h3 {
+    outline: 10px solid;
+    /* outline-offset: 4px ; */
+    outline-color: bisque;
+    outline-style: dotted;
+    border: 5px gray solid;
+    outline-width: 10px;
+    width: 500px;
+}  
